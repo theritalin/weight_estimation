@@ -8,3 +8,6 @@
 .env.production.local
 
 .venv
+
+# Model dosyaları
+/models/
