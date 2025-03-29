@@ -9,5 +9,4 @@
 
 .venv
 
-# Model dosyaları
-/models/
+.DS_Store
